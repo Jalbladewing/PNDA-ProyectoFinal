@@ -1,0 +1,8 @@
+Executable : D:\Programas\Android\sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+--build
+D:\Descargas\Informatica\AndroidNativoEjercicios\Sesiones\Proyecto\ImageBlurring-master\blur\.externalNativeBuild\cmake\debug\armeabi-v7a
+--target
+genius_blur
+jvmArgs : 
+

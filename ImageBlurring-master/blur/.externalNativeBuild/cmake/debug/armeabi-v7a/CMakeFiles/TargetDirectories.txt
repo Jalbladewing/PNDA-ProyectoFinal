@@ -1,0 +1,3 @@
+D:/Descargas/Informatica/AndroidNativoEjercicios/Sesiones/Proyecto/ImageBlurring-master/blur/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Descargas/Informatica/AndroidNativoEjercicios/Sesiones/Proyecto/ImageBlurring-master/blur/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/genius_blur.dir
+D:/Descargas/Informatica/AndroidNativoEjercicios/Sesiones/Proyecto/ImageBlurring-master/blur/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir

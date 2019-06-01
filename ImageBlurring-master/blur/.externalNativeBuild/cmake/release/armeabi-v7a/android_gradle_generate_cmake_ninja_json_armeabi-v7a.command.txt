@@ -1,0 +1,18 @@
+Executable : D:\Programas\Android\sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HD:\Descargas\Informatica\AndroidNativoEjercicios\Sesiones\Proyecto\ImageBlurring-master\blur\src\main\cpp
+-BD:\Descargas\Informatica\AndroidNativoEjercicios\Sesiones\Proyecto\ImageBlurring-master\blur\.externalNativeBuild\cmake\release\armeabi-v7a
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_PLATFORM=android-16
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\Descargas\Informatica\AndroidNativoEjercicios\Sesiones\Proyecto\ImageBlurring-master\blur\build\intermediates\cmake\release\obj\armeabi-v7a
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=D:\Programas\Android\sdk\ndk-bundle
+-DCMAKE_CXX_FLAGS=-std=c++14 -fopenmp -O3 -mfloat-abi=softfp -mfpu=neon -flax-vector-conversions -ljnigraphics
+-DCMAKE_TOOLCHAIN_FILE=D:\Programas\Android\sdk\ndk-bundle\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=D:\Programas\Android\sdk\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+-DANDROID_TOOLCHAIN=clang
+-DANDROID_ARM_MODE=arm
+-DCMAKE_BUILD_TYPE=Release
+jvmArgs : 
+
